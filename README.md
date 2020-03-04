@@ -69,7 +69,7 @@ Skill breakdown from [*....] to  [*****]
 * React Native [**...]
 * RUST [*....]
 * Basic Algorithms [**...]  
-* Muay Thai [*****]
+* Muay Thai [*************************]
 
 
 
