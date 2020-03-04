@@ -2,7 +2,7 @@
 
 Hello everyone,
 
-My name is Lavell , but here you can call me Laziee. Before I got into the world of Tech I was an engineering student and before that a business major. I literally started coding so I could learn to build OSRS bots. 2 years later I am still in the process of figure all this crazy mess out.
+My name is Lavell , but here you can call me Laziee. Before I got into the world of Tech I was an engineering student and before that a business major. I literally started coding so I could learn to build OSRS bots. 2 years later I am still in the process of figuring all this crazy mess out.
 
 This log was designed for two reasons.
 
@@ -18,7 +18,7 @@ This log was designed for two reasons.
  [ Muigai ]:https://github.com/muigaiunaka
  [lillythedev]: https://github.com/lpercivalDEV
 
- Shout out to [Muigai] the magnificent for giving me the idea to make this & [lillythedev] who I copied this from.
+ Shout out to [Muigai] for the intial idea & [lillythedev] who I copied this from.
 
 www.lavellwesley.com
 
@@ -58,7 +58,7 @@ www.lavellwesley.com
 Skill breakdown from [*....] to  [*****]
 
 
-* Muay Thai [*****]*****
+
 * PostgreSQL (Relational db) [**...]
 * Machine Learning and Data Processing [**...]
 * p5.js [*....]
@@ -69,7 +69,8 @@ Skill breakdown from [*....] to  [*****]
 * React Native [**...]
 * RUST [*....]
 * Basic Algorithms [**...]  
-  
+* Muay Thai [*****]
+
 
 
 
