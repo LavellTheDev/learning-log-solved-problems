@@ -72,6 +72,23 @@ Skill breakdown from [*....] to  [*****]
 * Muay Thai [*************************]
 
 
+## Currently Learning
+
+**Tech**
+* WesBos Javascript30 11/30
+* 2019 Frontend Developer RoadMap (Fetch)
+* Read - https://javascript.info/array-methods
+* Read - https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961
+* Read - https://dmitripavlutin.com/how-to-iterate-easily-over-object-properties-in-javascript/
+* Do - https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms
+* Watch - https://youtu.be/v4cd1O4zkGw
+* Watch - https://youtu.be/t2CEgPsws3U (A lot of material - stop and active recall after each topic)
+* Do - Signup for https://leetcode.com/ and practice your methods with 3 challenges
+* Watch - https://youtu.be/eM7hzKwvTq8
+* Do - https://cvcompiler.com/ (Run your resume through to see what recruiters see don't pay)
+:rotating_light:Don't just read about your array, string, object, and other methods - practice using them! :rotating_light:
+
+**Other**
 
 
 ## Future Learning Goals
