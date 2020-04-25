@@ -76,7 +76,7 @@ Skill breakdown from [*....] to  [*****]
 
 **Tech**
 * Spotify Fellowship Program Hackerrank Test :(
-* WesBos Javascript30 11/30
+* WesBos Javascript30 13/30
 * 2019 Frontend Developer RoadMap (Fetch)
 * Read - https://javascript.info/array-methods
 * Read - https://levelup.gitconnected.com/essential-javascript-string-methods-f1841dad1961
