@@ -75,6 +75,8 @@ Skill breakdown from [*....] to  [*****]
 ## Currently Learning
 
 **Tech**
+* MndGmz
+* Tonk [Lilly, Ryry]
 * Spotify Fellowship Program Hackerrank Test :(
 * WesBos Javascript30 13/30
 * 2019 Frontend Developer RoadMap (Fetch)
